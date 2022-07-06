@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://a126758.hostedsitemap.com/4027378/sitemap.xml.gz
